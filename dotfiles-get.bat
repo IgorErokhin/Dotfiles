@@ -1,0 +1,1 @@
+Powershell.exe -ExecutionPolicy RemoteSigned -File  ".\dotfiles-get.ps1"
